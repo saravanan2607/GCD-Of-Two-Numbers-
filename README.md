@@ -16,7 +16,7 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
+
 Program to find the gcd of two number using function.
 Developed by: Saravanan C
 RegisterNumber: 212222110041
@@ -30,7 +30,7 @@ def gcd():
         if number1%i==0 and number2%i==0:   
             gcd1=i   
     print("GCD of two numbers is:",gcd1) 
-*/
+
 ```
 
 ## Output:
