@@ -1,5 +1,5 @@
 # DATE : 
-# EX 4 : Find the GCD of two numbers
+# EXP-04 : Find the GCD of two numbers
 
 ## AIM :
 To write a program to find the GCD of two numbers using function.
