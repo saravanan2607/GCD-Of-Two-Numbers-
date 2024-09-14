@@ -1,20 +1,20 @@
 # DATE : 
-# EX 4 - Find the GCD of two numbers
+# EX 4 : Find the GCD of two numbers
 
-## AIM:
+## AIM :
 To write a program to find the GCD of two numbers using function.
 
-## Equipments Required:
+## Equipments Required :
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+## Algorithm :
 1. Define a function.
 2. Get the two numbers from the user.
 3. Compare the two values, to find the smaller number.
 4. Use for() and if() loop to find the GCD of the two numbers.
 
-## Program:
+## Program :
 ```
 
 Program to find the gcd of two number using function.
@@ -33,10 +33,10 @@ def gcd():
 
 ```
 
-## Output:
+## Output :
 ![EXP-4_ CR GCD of two numbers](https://github.com/user-attachments/assets/f6030d65-e0e2-44ae-a0b4-55b80c56d5b0)
 
 
 
-## Result:
+## Result :
 Thus the program to find the GCD of two numbers is written and verified using python programming.
